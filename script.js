@@ -10,7 +10,7 @@ const inputSearch = document.createElement('input')
 inputSearch.setAttribute('type', 'search')
 inputSearch.setAttribute('id', 'search-input')
 inputSearch.setAttribute('aria-label', 'search')
-inputSearch.style.color = '#F5F5F5';
+inputSearch.style.color = '#000000';
 inputSearch.setAttribute('placeholder', 'Search by book name')
 inputSearch.setAttribute('class', 'form-control me-2')
 
